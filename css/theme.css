@@ -4,7 +4,7 @@ body {
 }
 
 .copyright {
-    color: #ffffff;
+    color: #00ddcc;
 }
 
 .footer {
@@ -12,7 +12,7 @@ body {
 }
 
 .footer a {
-    color: #ee4444;
+    color: #ccffcf;
 }
 
 .sidebar h1 {
@@ -38,14 +38,14 @@ body {
 }
 
 .well h1 {
-    color: #ee4444;
+    color: #000000;
     font-size: 1.3em;
 }
 
 .author {
-    color: #ee4444;
+    color: #ccffbf;
 }
 
 .author a {
-    color: #ee4444;
+    color: #ccffbf;
 }
